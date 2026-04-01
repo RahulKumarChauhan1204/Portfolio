@@ -25,8 +25,8 @@ You can find my work documented here, including:
 
 ## 🌐 Connect with Me
 - **Portfolio:** [Check it out here](https://rahulkumarchauhan1204.github.io/Portfolio/)
-- **LinkedIn:** [https://www.linkedin.com/in/rahulchauhan12/]
-- **GeeksforGeeks:** [check it here] (https://www.geeksforgeeks.org/profile/rahulchauhmina)
+- **LinkedIn:** [Check it out here](https://www.linkedin.com/in/rahulchauhan12/)
+- **GeeksforGeeks:** [Check it out here](https://www.geeksforgeeks.org/profile/rahulchauhmina)
 
 ---
 ⭐️ *Feel free to explore my repositories and reach out for collaborations!*
