@@ -17,11 +17,6 @@ I am a passionate developer specializing in **Artificial Intelligence and Machin
 
 **Web Development:**
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Tools & Hardware:**
-- HP Victus (Development Rig)
-- VS Code, Git/GitHub
-
 ## 📁 Project Highlights
 You can find my work documented here, including:
 - **Full-Stack Applications:** Projects built using modern web technologies.
@@ -30,8 +25,8 @@ You can find my work documented here, including:
 
 ## 🌐 Connect with Me
 - **Portfolio:** [Check it out here](https://rahulkumarchauhan1204.github.io/Portfolio/)
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **GeeksforGeeks:** [Your GFG Profile Link]
+- **LinkedIn:** [https://www.linkedin.com/in/rahulchauhan12/]
+- **GeeksforGeeks:** [check it here] (https://www.geeksforgeeks.org/profile/rahulchauhmina)
 
 ---
 ⭐️ *Feel free to explore my repositories and reach out for collaborations!*
