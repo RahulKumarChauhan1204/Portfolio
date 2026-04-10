@@ -23,6 +23,9 @@ You can find my work documented here, including:
 - **AI/ML Models:** Explorations into machine learning and data science.
 - **DSA Practice:** Solutions to challenging problems from GeeksforGeeks and beyond.
 
+##Future Projects
+- **Legal-Ease-Decode
+
 ## 🌐 Connect with Me
 - **Portfolio:** [Check it out here](https://rahulkumarchauhan1204.github.io/Portfolio/)
 - **LinkedIn:** [Check it out here](https://www.linkedin.com/in/rahulchauhan12/)
